@@ -32,7 +32,7 @@ const Home = () => {
                     marginTop: '0.5rem',
                     marginLeft: '0.5rem'
                 }}>La tienda descentralizada mas completa de la web <br/> Quantum Swap te permite comprar y vender articulos usando
-                 <br /> cripto monedas.</div>
+                 <br /> cripto monedas. Jodkfenrklmgergnkler</div>
             </div>
         </div>
 
