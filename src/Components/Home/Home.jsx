@@ -24,7 +24,7 @@ const Home = () => {
                     fontSize: '60px',
                     fontWeight: '700',
                     fontFamily: 'sans-serif'
-                }}>Quantum Swap</div>
+                }}>Swap Project X</div>
                 <div style={{
                     fontSize: '16px',
                     fontFamily: 'Poppins',
