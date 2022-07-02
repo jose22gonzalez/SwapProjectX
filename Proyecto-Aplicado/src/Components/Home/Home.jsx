@@ -24,7 +24,7 @@ const Home = () => {
                     fontSize: '60px',
                     fontWeight: '700',
                     fontFamily: 'sans-serif'
-                }}>Quantum Swap</div>
+                }}> Swap Project X</div>
                 <div style={{
                     fontSize: '16px',
                     fontFamily: 'Poppins',
@@ -32,7 +32,7 @@ const Home = () => {
                     marginTop: '0.5rem',
                     marginLeft: '0.5rem'
                 }}>La tienda descentralizada mas completa de la web <br/> Quantum Swap te permite comprar y vender articulos usando
-                 <br /> cripto monedas. Jodkfenrklmgergnkler</div>
+                 <br /> cripto monedas. </div>
             </div>
         </div>
 
