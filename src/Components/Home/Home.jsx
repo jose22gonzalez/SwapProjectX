@@ -31,7 +31,7 @@ const Home = () => {
                     fontWeight: '400',
                     marginTop: '0.5rem',
                     marginLeft: '0.5rem'
-                }}>La tienda descentralizada mas completa de la web <br/> Quantum Swap te permite comprar y vender articulos usando
+                }}>La tienda descentralizada mas completa de la web <br/> Swap Project X te permite comprar y vender articulos usando
                  <br /> cripto monedas.</div>
             </div>
         </div>
